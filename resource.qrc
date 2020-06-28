@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>tower.png</file>
+        <file>enemy.png</file>
+        <file>bullet.png</file>
+        <file>exit.jpeg</file>
+        <file>testing.gif</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>9.png</file>
+        <file>10.png</file>
+        <file>map1.jpg</file>
+        <file>rush.jpg</file>
+        <file>level.jpeg</file>
+        <file>enemy 2.png</file>
+        <file>level2.jpg</file>
+        <file>posion.png</file>
+        <file>231.wav</file>
+    </qresource>
+</RCC>
